@@ -1,4 +1,4 @@
-# 🤳DINE AR
+# 🤳 DINE AR 🍝
  AR Food Menu Vizualization:
  
  Experience and customize food before buying it at the seating table in the Gulmohar Restaurant.
